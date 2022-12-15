@@ -32,7 +32,7 @@ function filtrar(funcion) {
      }
     }
     return newArray;
-   }
+   };
 };
 
 // No modifiques nada debajo de esta linea //
